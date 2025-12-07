@@ -1,7 +1,7 @@
 export const App = () => {
   return (
     <div>
-      <p>123</p>
+      <p className="text-3xl font-extrabold underline">12344</p>
     </div>
   );
 };
