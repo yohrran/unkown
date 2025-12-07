@@ -1,3 +1,6 @@
+/*
+브라우저 환경(React)을 위한 TS 설정
+*/
 {
   "compilerOptions": {
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
